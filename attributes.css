@@ -223,12 +223,12 @@
 }
 .dp-li { display: list-item; }
 .dp-ib { display: inline-block; }
-.dp-i { display: inline-table; }
-.dp-i {
+.dp-it { display: inline-table; }
+.dp-ig {
   display: -ms-inline-grid;
   display: inline-grid;
 }
-.dp-i {
+.dp-if {
   display: -moz-inline-flex;
   display: -ms-inline-flex;
   display: -o-inline-flex;
